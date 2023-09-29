@@ -1,5 +1,5 @@
 # USDACitation
-1.	“test extension reports.zip”: This is a set of 10 randomly selected PDF files from the extension programs below:
+1.	“test extension reports.zip”: This is a set of 10 randomly selected "PDF" files from the extension programs below:
       •	'https://4hansci.osu.edu/',
       •	'https://4hansci.osu.edu/',
       •	'https://agsafety.tamu.edu/',
